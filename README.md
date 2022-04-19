@@ -10,6 +10,6 @@
 
 - Simultaneous 2-player mode (30)
 
-Redesign assets (20)
+- Redesign assets (20)
 
 - New spaceship type (20)
